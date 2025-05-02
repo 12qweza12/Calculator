@@ -11,6 +11,9 @@ L.pack()
 L = Label(GUI, text="12qweza12")
 L.pack()
 
+L = Label(GUI, text="my password = gikdkd2559")
+L.pack()
+
 L = Label(GUI, text="Somchai Dev")
 L.pack()
 
