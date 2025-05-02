@@ -20,3 +20,12 @@ print("Hello world")
 print("Hello world")
 print("Hello world")
 print("Hello world")
+
+print("Test push")
+print("Test push")
+print("Test push")
+print("Test push")
+print("Test push")
+print("Test push")
+print("Test push")
+
