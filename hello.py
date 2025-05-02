@@ -5,3 +5,5 @@ name = "Sirawit"
 lastname = "Juthong"
 fullname = name + " " + lastname
 print(fullname)
+
+print("สวัสดีชาวโลก ฉันง่วงและแสบตามาก")
