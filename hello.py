@@ -13,3 +13,10 @@ print("สวัสดีชาวโลก ฉันง่วงและแส
 print("สวัสดีชาวโลก ฉันง่วงและแสบตามาก ภาค2")
 print("สวัสดีชาวโลก ฉันง่วงและแสบตามาก ภาค2")
 print("สวัสดีชาวโลก ฉันง่วงและแสบตามาก ภาค2")
+
+print("Hello world")
+print("Hello world")
+print("Hello world")
+print("Hello world")
+print("Hello world")
+print("Hello world")
