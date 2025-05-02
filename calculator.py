@@ -14,4 +14,8 @@ L.pack()
 L = Label(GUI, text="Somchai Dev")
 L.pack()
 
+
+
+
+
 GUI.mainloop()
